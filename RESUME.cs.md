@@ -1,23 +1,26 @@
 ---
-schema_version: 9
+schema_version: 11
 type: library
+category_override: none
 file_count: 12
+file_extensions: cs:5, csproj:3, md:3, noext:1, slnx:1
+file_extensions_updated: 2026-10-04
 avg_lines_per_file: 20
 total_lines: 245
 metrics_lm: 2026-10-03 16:20:00
 move_to_legacy_percent: 0
 description_updated: 2026-10-03
 links_updated: 2026-10-03
-github_source_url:
+github_source_url: not run
 origin_status: own
-origin_checked: n/a
-article_source_url:
+origin_checked: not run
+article_source_url: not run
 article_status: own
-article_checked: n/a
+article_checked: not run
 last_build_ok: yes
 last_build_date: 2026-10-03
 last_tests_run_date: 2026-10-03
-covered_lines: n/a
+covered_lines: not run
 ---
 
 ## Description
